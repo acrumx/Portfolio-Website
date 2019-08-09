@@ -1,0 +1,104 @@
+html {
+    height: 100%;
+    margin: auto;
+    width: auto;
+}
+
+/* .section1 {
+    background: url(https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2014&q=80);
+    background-size: auto;
+} */
+body {
+    /* background:url(https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2014&q=80) no-repeat; */
+    /* background-size: auto; */
+    /* background-position: center; */
+    color: pink;
+    background-color: black;
+    font-family: 'Playfair Display', serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.deborah {
+    font-weight: 900;
+    font-style: italic;
+    font-size: 5rem;
+}
+
+.footer {
+    bottom: 0;
+    background-color: black;
+}
+
+/* .dragg {
+    background: url(https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2014&q=80) no-repeat;
+    background-position: center;
+    background-size: cover%;
+    padding-top: 100%;
+    
+
+} */
+.jumbotron {
+    /* position: center; */
+    vertical-align: middle;
+}
+
+.pokemon {
+    min-height: 100vh;
+    background-color: #1e1f22;
+}
+
+#computerr {
+    background: url(https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2014&q=80) center;
+    min-height: 100vh;
+}
+
+.picx {
+    padding: 10px;
+}
+
+.bar {
+    color: pink;
+}
+
+.space {
+    padding-top: 10%;
+
+}
+
+/* .contact {
+    min-height: 97vh;
+} */
+
+.foota {
+    color: pink;
+    padding-bottom: 1vh;
+}
+
+li {
+    color: white;
+}
+
+a {
+    color: aquamarine;
+}
+
+.collapsible {
+    color: pink;
+}
+
+.hello {
+    vertical-align: middle;
+}
+
+.navbar-toggler {
+    border: 1px solid white;
+    background-color: white;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='yellow' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+    color: white;
+  }
